@@ -73,4 +73,4 @@ elif choice == 2:
     count += 1  
     st.write(f'Your current CGPA is:   {calculateCgpa() :.2f}')
 else:
-    st.write('Invalid Input given')
+    st.write('Invalid Input given') 
